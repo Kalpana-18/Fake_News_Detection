@@ -6,7 +6,11 @@ This project focuses on building a machine learning model capable of detecting a
 The model is trained and evaluated using a diverse dataset of news articles, leveraging multiple techniques and tools for accurate classification.
 
 **Tech Stack**
+
+
 **Programming Language**
+
+
 Python: Used for all data processing, modeling, and evaluation tasks.
 Libraries and Frameworks
 Data Manipulation and Analysis
@@ -15,7 +19,9 @@ Pandas: For importing, processing, and analyzing the dataset.
 
 **Machine Learning**
 Scikit-learn:
+
 Vectorization:
+
 CountVectorizer for simple term-document frequency representation.
 TfidfVectorizer for term frequency-inverse document frequency representation.
 HashingVectorizer for memory-efficient, hash-based vectorization.
@@ -27,6 +33,7 @@ Metrics such as accuracy score and confusion matrices for performance evaluation
 Visualization
 
 Matplotlib: For plotting confusion matrices to visualize model performance.
+
 Numerical Computation
 
 NumPy: For efficient numerical computations and matrix manipulations.
